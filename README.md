@@ -19,6 +19,6 @@ data/flows.csv       # labelled flows with model predictions (synthetic data)
 tests/               # tests for ids_eval.py (do not edit)
 ```
 
-## Author
+## Author: Baali Habiba
 
 <!-- Replace this line with your full name -->
