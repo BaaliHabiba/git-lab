@@ -1,4 +1,4 @@
-# Intrusion Detecton Evaluator
+# Intrusion Detection Evaluator
 
 A small Python program that evaluates a machine learning intrusion detection
 system (IDS). `data/flows.csv` contains network flows with their true label
@@ -19,6 +19,6 @@ data/flows.csv       # labelled flows with model predictions (synthetic data)
 tests/               # tests for ids_eval.py (do not edit)
 ```
 
-## Author: Baali Habiba
+## Author
 
-<!-- Replace this line with your full name -->
+<!-- Baali Habiba -->
